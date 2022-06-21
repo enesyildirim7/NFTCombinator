@@ -8,15 +8,15 @@
 
 ###### 3. File Structure
 
-NFTCombinator
+NFTCombinator  
 ├── background  
 ├── character  
 ├── clothes  
 ├── eyes  
 ├── head  
-├── mouth
-├── NFTArt
-├── nose
+├── mouth  
+├── NFTArt  
+├── nose  
 └── combinator.py
 
 ###### 4. Run the command
